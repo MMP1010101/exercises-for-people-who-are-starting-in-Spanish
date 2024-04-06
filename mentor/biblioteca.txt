@@ -1,3 +1,0 @@
-ID_libro, nombre, autor, categoria
-3, Marc, Marc, Marc
-4, Marc, difeo, fei
